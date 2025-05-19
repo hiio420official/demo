@@ -1,0 +1,24 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "otp 데모",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiio420official/demo.git"
+  },
+  "keywords": [
+    "demo",
+    "otp",
+    "nodejs"
+  ],
+  "author": "hiio420.official",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiio420official/demo/issues"
+  },
+  "homepage": "https://github.com/hiio420official/demo#readme"
+}
