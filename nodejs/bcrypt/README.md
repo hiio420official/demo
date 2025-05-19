@@ -1,7 +1,11 @@
 # Bcrypt 유틸리티 클래스
 
 안전한 비밀번호 관리를 위한 TypeScript Bcrypt 유틸리티 클래스입니다.
-
+```mermaid
+flowchart LR
+    markdown["`This **is** Bcrypt`"]
+    
+```
 ## 설치 방법
 
 ```bash
