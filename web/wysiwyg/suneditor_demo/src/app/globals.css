@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* SUNEDITOR 스타일 커스터마이징 */
+.sun-editor {
+  border-radius: 8px !important;
+  border: 1px solid #d9d9d9 !important;
+}
+
+.sun-editor .se-container {
+  border-radius: 8px !important;
+}
+
+.sun-editor .se-toolbar {
+  border-top-left-radius: 8px !important;
+  border-top-right-radius: 8px !important;
+  background-color: #fafafa !important;
+  border-bottom: 1px solid #d9d9d9 !important;
+}
+
+.sun-editor .se-wrapper {
+  border-bottom-left-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+}
