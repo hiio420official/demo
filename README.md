@@ -13,4 +13,4 @@
 2. Quill 에디터 [Github](https://github.com/hiio420official/demo/tree/main/web/wysiwyg/quill_demo)
 3. Sun Editor 에디터 [Github](https://github.com/hiio420official/demo/tree/main/web/wysiwyg/suneditor_demo)
 4. tinyMCE 에디터 [Github](https://github.com/hiio420official/demo/tree/main/web/wysiwyg/tiny_demo)
-5. Tipta 에디터 [Github](https://github.com/hiio420official/demo/tree/main/web/wysiwyg/tiptap)
+5. Tiptap 에디터 [Github](https://github.com/hiio420official/demo/tree/main/web/wysiwyg/tiptap)
